@@ -1,0 +1,6 @@
+*** Readme ***
+
+Extension of Firmata with local process control including:
+- Input handling form multiple sources
+- Control Loops
+- Contorl Loop direct to IO 
